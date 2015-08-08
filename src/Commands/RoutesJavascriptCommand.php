@@ -95,7 +95,7 @@ class RoutesJavascriptCommand extends Command
            ['path', 'p', InputOption::VALUE_OPTIONAL, 'Path to assets directory.', base_path()],
            ['filter', 'f', InputOption::VALUE_OPTIONAL, 'Custom route filter.', null],
            ['object', 'o', InputOption::VALUE_OPTIONAL, 'Custom JS object.', 'Router'],
-           ['prefix', 'prefix', InputOption::VALUE_OPTIONAL, 'Custom route prefix.', null],
+           ['prefix', 'prefix', InputOption::VALUE_OPTIONAL, 'Custom route prefix.', null]
         ];
     }
 }

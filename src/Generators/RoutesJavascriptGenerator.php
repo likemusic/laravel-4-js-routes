@@ -111,7 +111,7 @@ class RoutesJavascriptGenerator
             return [
                 'uri'    => $route->uri(),
                 'name'   => $route->getName(),
-                'before' => $this->getBeforeFilters($route),
+                'before' => $this->getBeforeFilters($route)
             ];
         }
 
