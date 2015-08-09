@@ -11,10 +11,10 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "illuminate/support": ">=5.0.*"
+        "illuminate/support": ">=5.0.0"
     },
     "require-dev": {
-        "illuminate/events": ">=5.0.*",
+        "illuminate/events": ">=5.0.0",
         "phpunit/phpunit": ">=3.7.27",
         "mockery/mockery": ">=0.8.0",
         "squizlabs/php_codesniffer": ">=1.*",
