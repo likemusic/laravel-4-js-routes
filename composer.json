@@ -11,13 +11,13 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "illuminate/support": "~5.0.*"
+        "illuminate/support": ">=5.0.*"
     },
     "require-dev": {
-        "illuminate/events": "~5.0.*",
-        "phpunit/phpunit": "~3.7.27",
-        "mockery/mockery": "~0.8.0",
-        "squizlabs/php_codesniffer": "~1.*",
+        "illuminate/events": ">=5.0.*",
+        "phpunit/phpunit": ">=3.7.27",
+        "mockery/mockery": ">=0.8.0",
+        "squizlabs/php_codesniffer": ">=1.*",
         "jakub-onderka/php-parallel-lint": "*",
         "jakub-onderka/php-console-highlighter": "dev-master",
         "phpmd/phpmd": "@stable"
